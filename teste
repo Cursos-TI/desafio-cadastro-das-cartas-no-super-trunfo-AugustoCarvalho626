@@ -2,5 +2,23 @@
 
 // Desafio Super Trunfo - Países 
 // Tema 1 – Cadastro das cartas
-  
+// Teste Augusto Bento Carvalho
+
+    int main(){
+
+// Declaração de variáveis para carta 1
+    char estado1;  // Recebe uma letra
+    char codigo_carta1;  // Recebe três caracteres, sendo uma letra e dois números 
+    char nome_cidade1[20];  // Recebe o nome de uma cidade
+    int população1;  // Recebe um número inteiro
+    float area1;  // Recebe número com casas decimais
+    float pib1;  // Recebe número com casa decimais
+    int pnts_turist1;  // Recebe número inteiro 
+    
+// Declaração de variáveis para carta 2
+    char estado2;
+        
+
+
+    }
 
