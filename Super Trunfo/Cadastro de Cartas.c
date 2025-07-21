@@ -2,7 +2,7 @@
 
 // Desafio Super Trunfo - Países 
 // Tema 1 – Cadastro das cartas
-// Teste Augusto Bento Carvalho
+// Teste: Augusto Bento Carvalho
 
     int main(){
 
