@@ -81,8 +81,8 @@
         printf("Letra do estado da carta: %c\n", estado1);
         printf("Nome da cidade da carta: %s\n", nome_cidade1);
         printf("População da cidade: %i\n",população1);
-        printf("Área Km²: %.2f\n", area1);
-        printf("Pib: %.2f\n", pib1);
+        printf("Área Km²: %.2fKm²\n", area1);
+        printf("Pib: %.2f R$\n", pib1);
         printf("Pontos Turísticos: %i\n",pnts_turist1);
 
 // Saída de dados da carta 2
@@ -92,8 +92,8 @@
         printf("Letra do estado da carta: %c\n",estado2);
         printf("Nome da cidade da carta: %s\n", nome_cidade2);
         printf("População da cidade: %i\n", população2);
-        printf("Área Km²: %.2f\n", area2);
-        printf("Pib: %.2f\n", pib2);
+        printf("Área Km²: %.2f Km²\n", area2);
+        printf("Pib: %.2f R$\n", pib2);
         printf("Pontos Turísticos: %i\n", pnts_turist2);
 
 
