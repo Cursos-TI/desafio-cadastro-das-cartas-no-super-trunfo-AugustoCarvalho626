@@ -1,1 +1,35 @@
+#include <stdio.h>
+
+// Desafio Super Trunfo - Países 
+// Tema 1 – Cadastro das cartas
+// Teste Augusto Bento Carvalho
+
+    int main(){
+
+// Declaração de variáveis para carta 1
+    char estado1;  // Recebe uma letra
+    char codigo_carta1[3];  // Recebe três caracteres, sendo uma letra e dois números 
+    char nome_cidade1[20];  // Recebe o nome de uma cidade
+    int população1;  // Recebe um número inteiro
+    float area1;  // Recebe número com casas decimais
+    float pib1;  // Recebe número com casas decimais
+    int pnts_turist1;  // Recebe número inteiro 
+    
+// Declaração de variáveis para carta 2
+    char estado2;  // Recebe uma letra
+    char codigo_carta2[3];  // Recebe três caracteres, sendo uma letra e dois números 
+    char nome_cidade2[20];  // Recebe nome de uma cidade
+    int população2;  // Recebe um número inteiro
+    float area2;  // Recebe número com casas decimais
+    float pib2;  // Recebe número com casas decimais
+    int pnts_turist2;  // Recebe número inteiro
+    
+// Inserção de dados da carta 1
+        printf("Digite os dados da carta 1, de acordo com os itens solicitados: \n");
+
+        printf("Digite a letra para o estado da carta 1:\n");
+       // scanf("%c", &estado1);
+        return 0;
+
+    }
 
